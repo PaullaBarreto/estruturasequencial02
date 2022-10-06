@@ -9,6 +9,6 @@ public class Exercicio02 {
         int numero = sc.nextInt();
         sc.close();
 
-        System.out.println("O número informado foi" + numero);
+        System.out.println("O número informado foi " + numero);
     }
 }
